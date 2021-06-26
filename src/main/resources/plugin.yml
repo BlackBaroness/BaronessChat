@@ -1,0 +1,6 @@
+name: BaronessChat
+version: ${project.version}
+main: ru.baronessdev.free.chat.BaronessChat
+authors: [ BlackBaroness ]
+description: Chat plugin for Bukkit
+website: https://market.baronessdev.ru/
